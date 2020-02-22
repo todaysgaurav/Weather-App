@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/gauravmishra/Desktop/App/weather/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/gauravmishra/Desktop/App/weather/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/Optional.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/Portability.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/CPortability.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/Traits.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/Utility.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/gauravmishra/Desktop/App/weather/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
